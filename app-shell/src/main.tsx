@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.tsx";
-import './common/i18n';
+import './common/i18n.ts';
 import "./styles/theme.css";
 import "./styles/tailwind.css";
 import 'primeicons/primeicons.css';

@@ -1,0 +1,12 @@
+.p-invalid-radio-field {
+    border-color: #e24c4c;
+}
+
+.p-invalid-editor-field {
+    .p-editor-content {
+        border-color: #e24c4c !important;
+    }
+    .p-editor-toolbar {
+        border-color: #e24c4c !important;
+    }
+}

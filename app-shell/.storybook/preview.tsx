@@ -2,7 +2,6 @@ import { withThemeByClassName } from "@storybook/addon-themes";
 import type { Preview } from "@storybook/react";
 
 import "../src/styles/tailwind.css";
-import "../src/styles/layout/layout.scss"
 import 'primeicons/primeicons.css';
 
 
