@@ -1,4 +1,4 @@
 packages:
   - 'packages/*'
-  - 'app'
+  - 'app-shell'
   - 'mock-server'

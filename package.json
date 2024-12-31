@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "setup": "git init && npx husky init && npx playwright install && shx rm .husky/pre-commit",
-    "dev": "pnpm --filter app dev",
+    "dev": "pnpm --filter app-shell dev",
     "dev:component": "pnpm --filter ui-components storybook",
     "story:app": "pnpm --filter app storybook",
     "mock": "pnpm --filter mock-server mocks",
